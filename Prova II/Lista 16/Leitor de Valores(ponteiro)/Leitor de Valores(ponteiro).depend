@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681266896 source:c:\users\user\pictures\aula\aeds\c files\prova ii\leitor de valores(ponteiro)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

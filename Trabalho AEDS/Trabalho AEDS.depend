@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1688352577 source:c:\users\user\pictures\aula\aeds\c files\trabalho aeds\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<exception>
+

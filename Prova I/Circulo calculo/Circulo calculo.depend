@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1677256487 source:c:\users\user\desktop\circulo calculo\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1677256586 source:c:\users\user\pictures\aula\aeds\c files\circulo calculo\main.c
+	<stdio.h>
+	<stdlib.h>
+

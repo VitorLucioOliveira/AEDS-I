@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678155880 source:c:\users\user\pictures\aula\aeds\c files\calculo menu\main.c
+	<stdio.h>
+	<stdlib.h>
+

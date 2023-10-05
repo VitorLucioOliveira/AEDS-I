@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1678149879 source:c:\users\user\pictures\aula\aeds\c files\calculo menu\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1680052143 source:c:\users\user\pictures\aula\aeds\c files\ordem crescente\main.c
+	<stdio.h>
+	<stdlib.h>
+

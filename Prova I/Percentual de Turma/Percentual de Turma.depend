@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679264768 source:c:\users\user\pictures\aula\aeds\c files\percentual de turma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

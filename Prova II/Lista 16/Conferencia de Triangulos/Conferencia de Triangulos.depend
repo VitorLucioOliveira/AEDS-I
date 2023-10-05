@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681098208 source:c:\users\user\pictures\aula\aeds\c files\conferencia de triangulos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

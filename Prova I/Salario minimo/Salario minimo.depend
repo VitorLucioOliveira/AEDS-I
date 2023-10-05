@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679961692 source:c:\users\user\pictures\aula\aeds\c files\salario minimo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

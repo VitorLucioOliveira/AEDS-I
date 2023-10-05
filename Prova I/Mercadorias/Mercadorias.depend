@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679964741 source:c:\users\user\pictures\aula\aeds\c files\mercadorias\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

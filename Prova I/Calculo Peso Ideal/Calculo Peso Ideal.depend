@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1677285065 source:c:\users\user\pictures\aula\aeds\c files\calculo peso ideal\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1684259822 source:c:\users\user\pictures\aula\aeds\c files\prova i\calculo peso ideal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<ctype.h>
+
